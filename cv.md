@@ -11,12 +11,29 @@
 ### Data Structures
 ### Problem Solving
 ### Object-Oriented Programming (OOP)
+### Test Driven Development
+### Mathematics
+### Computer Networking
+### C++
+### Java
+### C
+### Git
+### Memory Management
+### MySQL
+### HTML
+### Programming Paradigms
+### Programming Abstraction
+### Programming Methodology
+### Assembly
+### Machine code
+### Imperative, Object-Oriented and Functional Programming
+### Nand2Tetris
 
 
-### Experiences:
+### Experiences: I have done Stanford courses Assignments CS106A, CS106B, CS107A, CS107B on Java, C, C++. I also used python for writing my own HTTP Server used only low level libraries. My own DNS Server used only low level libraries. RTP Protocl and other Computer Networking algorithms.
 
 
 ### Education:
-### Free University of Tbilisi - Mathematic and Computer Science. 
+### Mathematics and Computer Sciences Bacheloor Degree. 
 
-### English Level: B2;
+### English Level: B2+;
